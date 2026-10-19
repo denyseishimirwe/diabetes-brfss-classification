@@ -23,7 +23,7 @@ CDC BRFSS 2015, Diabetes Health Indicators: 253,680 rows, 21 features, 3 classes
 4. A full run takes about 15 minutes. Seeds are fixed (`SEED = 42`), and repeated runs gave identical metrics.
 
 ## Repository contents
-- `diabetes_classification.ipynb`: full pipeline, experiments and evaluation
+- `diabetes_classification_final.ipynb`: full pipeline, experiments and evaluation
 - `requirements.txt`: pinned dependencies
 - `experiment_results.csv`: the experiment table (settings, split, metrics and notes for all 18 runs)
 
