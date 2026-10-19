@@ -1,15 +1,15 @@
 # Diabetes Status Classification from BRFSS 2015 Health Indicators
 
-Classifies survey respondents as **no diabetes**, **prediabetes** or **diabetes** from 21 health indicators. Compares traditional machine learning (scikit-learn) with deep learning (TensorFlow/Keras with `tf.data`) across 14 experiments and a held-out test evaluation.
+Classifies survey respondents as **no diabetes**, **prediabetes** or **diabetes** from 21 health indicators. Compares traditional machine learning (scikit-learn) with deep learning (TensorFlow/Keras with `tf.data`) across 15 experiments and a held-out test evaluation.
 
 **Author:** [your name]
 
 ## Links
 | Resource | Link |
 |---|---|
-| Report | [add link] |
+| Report | https://docs.google.com/document/d/1nWwSUQrsAZQ5SVGPf3v8gygDqolmsWZ0t87SQofdTuc/edit?usp=sharing |
 | Google Drive (dataset zip, saved models, logs) | (https://drive.google.com/drive/folders/1WTICaxd-hlayD76dvGgG38G59Mxlnz9g?usp=drive_link) |
-| Video | [add link] |
+| Video | (https://youtu.be/PlTnOthjZFU)|
 
 ## Dataset
 CDC BRFSS 2015, Diabetes Health Indicators: 253,680 rows, 21 features, 3 classes (84.2% no diabetes, 13.9% diabetes, 1.8% prediabetes). Source: [add the exact page you downloaded it from].
